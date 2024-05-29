@@ -2,9 +2,16 @@
 /* CSS Document */
 
 
+video{
+	width:100%;
+	height:auto;
+}
+/*https://www.w3schools.com/css/css_rwd_videos.asp*/
 
-
-
+iframe{
+	width:100%;
+	height:auto;
+}
 
 nav a:hover {
 	background-color:cornflowerblue;
@@ -93,7 +100,9 @@ a.pageMenu{
 }
 
 .topRightSide{
-	text-align:right;
+	display:flex;
+	justify-content:flex-end;
+	flex-wrap:wrap-reverse;
 }
 
 div.navMenu{
@@ -147,6 +156,9 @@ a.footerBar{
 	order:3;
 }
 
+
+/* https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do08 */
+
 @media(max-width:700px){
 	
 .footerBar{
@@ -156,6 +168,18 @@ a.footerBar{
 	display:flex;
 	flex-direction:column;
 	align-items:flex-start;
+	}
+}
+@media(min-width:1000px){
+	
+	video{
+	width:720px;
+	height:480px;
+	}
+	
+	iframe{
+	width:560px;
+	height:315px;
 	}
 }
 
