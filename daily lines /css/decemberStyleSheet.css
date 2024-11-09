@@ -1,0 +1,60 @@
+h1{
+  font-family:Arial;
+  font-size:50px;
+  background-color:powderblue;
+  margin-left:50px;
+}
+
+p{
+  font-family:times;
+  font-size:24px;
+  color:black;
+  background-color:white;
+}
+
+body{
+  background-color:orange;
+}
+
+pre{
+  color:tomato;
+  background-color:lightgrey;
+  font:arial;
+}
+
+i{
+  color:green;
+}
+
+strong{
+  font-family:arial;
+  color:mediumseagreen;
+}
+
+em{
+  font-size:200%;
+}
+
+q{
+  font-family:verdana;
+  color:slateblue;
+}
+
+blockquote{
+  color:slateblue;
+}
+
+header{
+  background-color:white;
+}
+
+footer{
+  background-color:violet;
+  color:white;
+  
+}
+
+figcaption{
+  font-size:20px;
+  margin-left:50px;
+}

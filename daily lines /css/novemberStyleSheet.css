@@ -1,0 +1,56 @@
+
+h1 {
+    font-size:100px;
+}
+
+p {
+    font-size:20px;
+    margin-left:30px;
+    margin-right:30px;
+}
+
+header {
+  border-style: dashed;
+  border:5px solid lightblue;
+}
+
+figcaption {
+  margin-left:50px;
+  margin-right:50px;
+  font-size:24px;
+}
+
+figure {
+  
+  background-color:white;
+  padding-bottom:25px;
+  padding-left:25px;
+  padding-right:25px;
+  border-style: solid;
+}
+
+figcaption {
+  border-style: double;
+}
+
+body {
+  
+  background-color:rgb(130,255,130);
+}
+
+header {
+ background-color:white;
+ padding-bottom:50px;
+ padding-right:50px;
+ padding-left:50px;
+
+}
+
+p{ background-color:white;
+
+}
+
+img {
+  max-width:100%;
+  height:auto;
+}

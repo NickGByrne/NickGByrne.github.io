@@ -1,0 +1,30 @@
+
+body{
+  background-color:blue;
+}
+
+h1{
+  color:white;
+}
+
+h2{
+  color:white;
+}
+
+h3{
+  color:white;
+}
+
+figcaption{
+  color:white;
+}
+
+a{
+  color:white;
+}
+
+img{
+  max-width:100%;
+  width:auto;
+}
+
